@@ -7,6 +7,8 @@
 // @match        https://myschool.mosyle.com/
 // @icon         https://myschool.mosyle.com/images/logos/favicon.ico
 // @grant        none
+// @updateURL    https://github.com/mcdan333/tampermonkey/blob/main/mosyle
+// @downloadURL  https://github.com/mcdan333/tampermonkey/blob/main/mosyle
 // ==/UserScript==
 
 var badDivs = $("div.alert-overdue-invoices");
