@@ -1,0 +1,14 @@
+// ==UserScript==
+// @name         mosyle.com: Remove "alert overdue invoices" banner
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  Remove annoying (but admittedly harmless) "alert overdue invoices" banner from the top of every Mosyle screen
+// @author       Eric McDaniel <mcdaniel_eric@cusdk8.org>
+// @match        https://myschool.mosyle.com/
+// @icon         https://myschool.mosyle.com/images/logos/favicon.ico
+// @grant        none
+// ==/UserScript==
+
+var badDivs = $("div.alert-overdue-invoices");
+
+badDivs.remove ();
