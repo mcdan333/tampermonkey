@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         mosyle.com: Remove annoying UI features
 // @namespace    http://tampermonkey.net/
-// @version      0.25
+// @version      0.30
 // @description  Remove annoying Mosyle UI elements
 // @author       Eric McDaniel <mcdaniel_eric@cusdk8.org>
 // @match        https://myschool.mosyle.com/
