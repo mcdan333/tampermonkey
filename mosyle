@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         mosyle.com: Remove "alert overdue invoices" banner
+// @name         mosyle.com: Remove annoying UI features
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Remove annoying Mosyle UI elements
