@@ -7,7 +7,6 @@
 // @match        https://myschool.mosyle.com/
 // @icon         https://myschool.mosyle.com/images/logos/favicon.ico
 // @grant        none
-// @downloadURL  https://raw.githubusercontent.com/mcdan333/tampermonkey/main/mosyle
 // ==/UserScript==
 
 /* eslint-env jquery */
