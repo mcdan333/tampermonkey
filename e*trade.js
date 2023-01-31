@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @match        https://us.etrade.com/*
+// @match        https://*.etrade.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=etrade.com
 // @grant        none
 // ==/UserScript==
@@ -17,5 +17,6 @@
 
     //$("#security-code-chk").prop("checked", true);
     $("#security-code-chk").trigger('click');
+    $("#security_code_chk").trigger('click');
 
 })();
